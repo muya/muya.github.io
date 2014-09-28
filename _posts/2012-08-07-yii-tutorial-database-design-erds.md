@@ -11,7 +11,6 @@ blogger_id: tag:blogger.com,1999:blog-3630098189866392828.post-24821102244437907
 blogger_orig_url: http://encore254.blogspot.com/2012/08/yii-tutorial-database-design-erds.html
 ---
 
-T
 This is the second part of the Yii tutorial. It covers the database design as well as the ERD for the project we are going to embark on.
 
 The diagram below shows a basic ERD of the system. Only the major columns in the tables are shown in the diagram. There are other columns that are common to
@@ -27,4 +26,4 @@ all the tables:
 
 More information about the table fields will be given as we use them.
 
-You can download the [SQL file](https://github.com/muya/student-portal/raw/master/db/studentPortal_28052013_1322.sql) needed to create the database.
+You can download the [SQL file](https://github.com/muya/student-portal/raw/master/db/studentPortal_28052013_1322.sql){:target="_blank"} needed to create the database.

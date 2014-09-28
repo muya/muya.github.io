@@ -4,7 +4,7 @@ title: Moving To Github Pages
 ---
 I started my first [blog](http://encore254.blogspot.com) in August 2012. My
 first post, [Creating Users & Grants in MySQL](http://encore254.blogspot.com/2012/08/create-users-and-grants-in-mysql.html),
-was as a result of learning how to do that. I was a newbie at the time, it was all very fascinating.
+was as a result of learning how to do just that. I was a newbie at the time, it was all very fascinating.
 
 I've come a long way since then. Learnt Yii (did a few blog posts on that),
 moved to some heavy back-end dev, then to DevOps, changed jobs, and now I'm doing
@@ -22,14 +22,14 @@ my needs (writing about code), and that it was too complex to customize. The lay
 themes took too much work to customize, and I didn't want to build anything from scratch.
 
 A few weeks back I came across GitHub Pages, and this [article](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
-Version controlled blog? A dev's dream! I write my posts in Markdown, and push them to Github.
-That's it! Jekyll is used to build the site and it's published! It couldn't get any simpler than this!
+Version controlled blogging? A dev's dream! I write my posts in Markdown, and push them to Github.
+That's it! [Jekyll](http://jekyllrb.com/){:target="_blank"} is used to build the site and it's published! It couldn't get any simpler than this!
 
 The site is clean, minimal, and I can add code snippets easily (this was especially messy in Blogger).
-For example*:
+For example<sub>*</sub>:
 {% highlight php linenos startinline=true %}
 function generateRandomNumber($seed) {
-  // chosen by fair dice roll, guaranteed to be random :p
+  // chosen by fair dice roll, guaranteed to be random
   return 4;
 }
 {% endhighlight %}
