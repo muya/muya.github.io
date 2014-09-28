@@ -1,0 +1,12 @@
+---
+layout: post
+title: Apache Issue after Installing OS X Yosemite
+date: '2014-07-26T16:49:00.000+03:00'
+author: Fred Muya
+tags: 
+modified_time: '2014-08-06T13:27:03.831+03:00'
+blogger_id: tag:blogger.com,1999:blog-3630098189866392828.post-1830683521186710938
+blogger_orig_url: http://encore254.blogspot.com/2014/07/apache-issue-after-installing-os-x.html
+---
+
+I recently updated to OS X Yosemite, and I was having issues with my Apache installation. Specifically, this is the error I was getting when i ran&nbsp;<span style="font-family: Courier New, Courier, monospace; font-size: x-small;"><b>apachectl -t</b></span> (to test Apache configuration):<br /><br /><span style="font-family: Courier New, Courier, monospace; font-size: x-small;">httpd: Syntax error on line 527 of /private/etc/apache2/httpd.conf: Syntax error on line 8 of /private/etc/apache2/other/+php-osx.conf: Cannot load /usr/local/php5/libphp5.so into server: dlopen(/usr/local/php5/libphp5.so, 10): Symbol not found: _unixd_config\n &nbsp;Referenced from: /usr/local/php5/libphp5.so\n &nbsp;Expected in: /usr/sbin/httpd\n in /usr/local/php5/libphp5.so</span><br /><br />And according to this Github issue <a href="https://github.com/liip/php-osx/issues/117" rel="nofollow" target="_blank">here</a>, it seems to be something to do with renaming of a file in Apache 2.4 (which Yosemite ships with).<br /><br />I followed the suggestion there, and you're required to uncomment this line &nbsp;(remove the '#' at the beginning of the line) in your&nbsp;/etc/apache2/httpd.conf file:<br /><br /><span style="font-family: Courier New, Courier, monospace;">LoadModule php5_module libexec/apache2/libphp5.so</span><br /><br />Make sure you run the command as root, then restart apache.<br /><br />All should work great now!
