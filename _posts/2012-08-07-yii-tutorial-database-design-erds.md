@@ -6,9 +6,6 @@ author: Fred Muya
 tags:
 - Yii Framework
 modified_time: '2012-08-10T08:34:57.384+03:00'
-thumbnail: http://4.bp.blogspot.com/-Bb9iZpDp6UY/UCCX2gZxuhI/AAAAAAAAAQo/y87ckhIEk8A/s72-c/StudentPortal+-+ERD.png
-blogger_id: tag:blogger.com,1999:blog-3630098189866392828.post-2482110224443790786
-blogger_orig_url: http://encore254.blogspot.com/2012/08/yii-tutorial-database-design-erds.html
 ---
 
 This is the second part of the Yii tutorial. It covers the database design as well as the ERD for the project we are going to embark on.

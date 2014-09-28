@@ -6,8 +6,6 @@ author: Fred Muya
 tags:
 - Yii Framework
 modified_time: '2012-08-10T08:40:58.650+03:00'
-blogger_id: tag:blogger.com,1999:blog-3630098189866392828.post-7715354023254602882
-blogger_orig_url: http://encore254.blogspot.com/2012/08/yii-tutorial-introduction.html
 ---
 
 This multi-part tutorial aims to show basic use of the Yii framework for basic tasks.
