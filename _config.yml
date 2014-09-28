@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
+  rss: rss # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: fred_muya
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
@@ -33,7 +33,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-55222196-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -59,7 +59,7 @@ version: v1.0.0
 # Set the Sass partials directory, as we're using @imports
 sass:
   sass_dir: _scss
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed
 
 # Use the following plug-ins
 gems:
