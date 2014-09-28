@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Fred Muya
 
-### More Information
+By day, I'm a Software & DevOps engineer at [DumaWorks](http://dumaworks.com).
 
-A place to include any other types of information that you'd like to include about yourself. 
+Any other time, I am:
 
-### Contact me
+- a web applications developer, mainly using PHP & MySQL running on Apache
 
-[email@domain.com](mailto:email@domain.com)
+- UX Design Enthusiast
+
+- tinkering with iOS using Swift, first app due mid-November
+
+### Let's talk
+
+Website: [muya.co.ke](http://muya.co.ke/#contact)
+
+Twitter: [fred_muya](https://twitter.com/fred_muya)
