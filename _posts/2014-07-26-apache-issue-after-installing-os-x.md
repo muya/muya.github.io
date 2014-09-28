@@ -5,6 +5,7 @@ date: '2014-07-26T16:49:00.000+03:00'
 author: Fred Muya
 tags:
 modified_time: '2014-08-06T13:27:03.831+03:00'
+excerpt: Solving syntax error in Apache httpd.conf file after upgrading to Yosemite Beta
 ---
 
 I recently updated to OS X Yosemite, and I was having issues with my Apache

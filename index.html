@@ -12,7 +12,12 @@ layout: default
       </h1>
 
       <div class="entry">
+        {% if post.excerpt %}
+        {{ post.excerpt }}
+        {% else %}
         {{ post.content | truncatewords:30}}
+        {% endif %}
+
       </div>
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
