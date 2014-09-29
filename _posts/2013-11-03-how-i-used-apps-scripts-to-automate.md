@@ -20,11 +20,11 @@ Since the reports will be required daily for the next few weeks, I decided to au
 
 I’d like to share the stuff I did, all the way from the PHP script, to the Apps Script app. Any improvements, criticism, etc will be much appreciated. Let’s get to code…
 
-Everything will be available on [GitHub](https://github.com/muya/jsc-mentions)
+Everything will be available on [GitHub](https://github.com/muya/jsc-mentions){:target="_blank"}
 
 For the data, I won’t give you anything from our servers, however we’ll be analyzing how frequently the JSC case came up on the news based on platform and location (don’t ask about the data set, someone gave me a challenge to make Law technical, it’s a start :)
 
-So, to get started, check-out/clone the project from [https://github.com/muya/jsc-mentions](https://github.com/muya/jsc-mentions) onto any folder on your system. I’ll assume a Unix-based system because… what else?
+So, to get started, check-out/clone the project from [https://github.com/muya/jsc-mentions](https://github.com/muya/jsc-mentions){:target="_blank"} onto any folder on your system. I’ll assume a Unix-based system because… what else?
 {% highlight bash %}
 $ git clone https://github.com/muya/jsc-mentions.git
 {% endhighlight %}
@@ -53,7 +53,7 @@ If all goes well, you should have an email in your `EMAIL_RECIPIENTS` account, h
 
 Next step, is set up on Google Apps Scripts:
 
-- Open [Google Drive](https://drive.google.com/), and create a new Script
+- Open [Google Drive](https://drive.google.com/){:target="_blank"}, and create a new Script
 - Select `Blank Project`
 - Replace the contents of `Code.gs` with the file contents of the file in `appsScripts/LoadJSCMentionsData.gs`
 - Click on `Select Function` & Choose `loadJSCMentionsData`
@@ -65,4 +65,4 @@ A Spreadsheet will be created in your root Drive folder with the data loaded fro
 
 You’re free to dissect, critic & improve the any aspects of the code. Also suggest any improvements, corrections, etc. via comments on this blog or on [GitHub](https://github.com/muya/jsc-mentions).
 
-Special thanks to [GDG Nairobi](http://www.gdgnairobi.info/) for the Hackathon that introduced me to Google Apps Scripts.
+Special thanks to [GDG Nairobi](http://www.gdgnairobi.info/){:target="_blank"} for the Hackathon that introduced me to Google Apps Scripts.

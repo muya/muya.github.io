@@ -3,25 +3,26 @@
 /* SYNTAX HIGHLIGHTING */
 /***********************/
 
-.highlight { 
+.highlight {
   background-color: $darkerGray;
   padding: 5px 10px;
   margin: 20px 0;
+  line-height: 1.2;
 }
 
 .highlight pre {
-  /* overflow: scroll; Prefer no word wrap? Uncomment this line and comment out the 2 lines below. */
-  word-break: break-all;
-  word-wrap: break-word;
+  overflow: scroll; /* Prefer no word wrap? Uncomment this line and comment out the 2 lines below. */
+  // word-break: break-all;
+  // word-wrap: break-word;
 }
- 
+
 code {
-  font-family: 'Courier', monospace;
-  font-size: 14px;
+  font-family: 'Monaco', 'Courier', monospace;
+  font-size: 13px;
   color: #999
 }
- 
-// Solarized Light Pygments 
+
+// Solarized Light Pygments
 // Thanks https://gist.github.com/edwardhotchkiss/2005058
 /* Comment */
 .highlight .c, .highlight .c1 { color: #586E75 }
