@@ -11,7 +11,8 @@
 }
 
 .highlight pre {
-  overflow: scroll; /* Prefer no word wrap? Uncomment this line and comment out the 2 lines below. */
+  overflow-x: scroll; /* Prefer no word wrap? Uncomment this line and comment out the 2 lines below. */
+  overflow-y: none;
   // word-break: break-all;
   // word-wrap: break-word;
 }
@@ -19,7 +20,7 @@
 code {
   font-family: 'Monaco', 'Courier', monospace;
   font-size: 13px;
-  color: #999
+  color: #797777
 }
 
 // Solarized Light Pygments
