@@ -95,7 +95,7 @@ Columns to be displayed are defined in the `columns` parameter. The data columns
 Normally, we don't want to display _raw_ IDs to the users in our grid view, especially for cases where a value in a column is a foreign key of another table. For example, in our system, all tables have the column `status`. The value of the `status` column references a value in the `entityStates` table. So instead of displaying `1` in that field, we can display the corresponding `entityStateName`, i.e. **`ACTIVE`**
 
 To do this, we need to ensure that the relation to `EntityStates` is defined in the Users model. First, use Gii to generate a model for the `entityStates` table. Then modify the `relations` function in the Users model to include a relation to `EntityStates`. The updated code should be as below:
-{% highlight php linenos startinline=true%}
+{% highlight php startinline=true%}
 /**
  * @return array relational rules.
  */

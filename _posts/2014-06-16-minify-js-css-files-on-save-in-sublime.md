@@ -19,7 +19,7 @@ To start using it:
 - In Sublime-Text, click on `Tools->New Plugin...`
 
 Here is the Gist:
-{% highlight python linenos %}
+{% highlight python %}
 import sublime, sublime_plugin
 
 class MinifyOnSave(sublime_plugin.EventListener):

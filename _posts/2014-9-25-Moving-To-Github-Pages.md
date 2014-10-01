@@ -27,7 +27,7 @@ That's it! [Jekyll](http://jekyllrb.com/){:target="_blank"} is used to build the
 
 The site is clean, minimal, and I can add code snippets easily (this was especially messy in Blogger).
 For example<sub>*</sub>:
-{% highlight php linenos startinline=true %}
+{% highlight php startinline=true %}
 function generateRandomNumber($seed) {
   // chosen by fair dice roll, guaranteed to be random
   return 4;
