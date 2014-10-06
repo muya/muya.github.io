@@ -6,7 +6,9 @@ author: Fred Muya
 
 I was migrating my blog posts from Blogger to Github Pages today. Not the most interesting thing to be doing on a Sunday (Blogger exporter, y u export to HTML? I WANT MARKDOWN!)
 
-I'm using the brilliant example given [here](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/){:target="_blank"} as the basis for my blog, and the items that load on the front page are the first few words of each posts. This is determined by this tag in the index.html file:
+I'm using the brilliant example given [here](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/){:target="_blank"}
+as the basis for my blog, and the items that load on the front page are the
+first few words of each posts. This is determined by this tag in the `index.html` file:
 {% highlight html %}
 {% raw %}{{ post.content | truncatewords:30 }}{% endraw %}
 {% endhighlight %}
