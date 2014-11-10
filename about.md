@@ -14,10 +14,10 @@ Any other time, I am:
 
 - UX Design Enthusiast
 
-- tinkering with iOS using Swift, first app due mid-November
+- tinkering with iOS using Swift, working on first app
 
 ### Let's talk
 
 Website: [muya.co.ke](http://muya.co.ke/#contact)
 
-Twitter: [fred_muya](https://twitter.com/fred_muya)
+Twitter: [@fred_muya](https://twitter.com/fred_muya)
