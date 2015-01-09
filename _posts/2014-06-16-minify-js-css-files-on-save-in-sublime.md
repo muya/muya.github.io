@@ -17,6 +17,8 @@ To start using it:
 
 - Grab this gist: [https://gist.github.com/muya/1cd6ce82490d2c0f2e0a](https://gist.github.com/muya/1cd6ce82490d2c0f2e0a){:target="_blank"}
 - In Sublime-Text, click on `Tools->New Plugin...`
+- Replace the file content with the code from the gist
+- Hit Save!
 
 Here is the Gist:
 {% highlight python %}
