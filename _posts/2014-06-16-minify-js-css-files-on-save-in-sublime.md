@@ -29,7 +29,7 @@ class MinifyOnSave(sublime_plugin.EventListener):
     file_types_to_minify = ['js', 'css']
     filenameParts = view.file_name().split('.')
     if filenameParts[len(filenameParts) - 1] in file_types_to_minify:
-      view.run_command('minify_to_file')
+      view.run_command('minify')
 {% endhighlight %}
 Now, when you save any of your JS & CSS files, a corresponding file (.min.js/.min.css) will be created/updated in the directory.
 
