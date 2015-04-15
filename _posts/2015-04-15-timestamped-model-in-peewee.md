@@ -61,6 +61,8 @@ However, I noticed that for create operations that were close together, e.g. a f
 
 Of course, using the SQL triggers (e.g. `ON CREATE CURRENT_TIMESTAMP`) would also work (especially for MySQL). For SQLite however, you run into issues when writing tests and you want to use the memory for temporary storage. You might get value missing errors for columns that are `NOT NULL`, since the SQL schema isn't used when accessing the database from within the tests.
 
+[Check out this Gist for a complete example.](https://gist.github.com/muya/37be3a87be65f64c4912)
+
 I hope this helps someone out there! All the best!
 
 -- Back to code!
