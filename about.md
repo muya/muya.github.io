@@ -6,11 +6,11 @@ permalink: /about/
 
 ### Fred Muya
 
-By day, I'm a Software & DevOps engineer at [DumaWorks](http://dumaworks.com).
+By day, I'm a Software & DevOps Engineer at [Inventure](http://inventure.com).
 
 Any other time, I am:
 
-- a web applications developer, mainly using PHP & MySQL running on Apache
+- a web applications developer, mainly using PHP & MySQL running on Apache (Python is wooing me)
 
 - UX Design Enthusiast
 
