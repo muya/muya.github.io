@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Extracting Safaricom MPESA B2C API Certificates
+title: Configuring Multiple Loggers in Python
 author: Fred Muya
 ---
 
@@ -72,7 +72,7 @@ $ python wasted_meerkats.py
 {% endhighlight %}
 
 The log output should look something like this:
-{% highlight %}
+{% highlight bash %}
 ==> /tmp/wasted_meerkats/messaging.log <==
 2015-10-17 20:55:05,942 [INFO]: The meerkats are drunk! in wasted_meerkats.py:4
 
