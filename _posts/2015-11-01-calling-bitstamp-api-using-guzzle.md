@@ -13,7 +13,7 @@ The API supports 2 types of calls:
 * public calls, e.g to get the market ticker
 * private calls, e.g. to get your account balance. The private calls require you to pass some extra details required for authentication, i.e. `key`, `nonce` & `signature`.
 
-The signature is generated using an algorithm they've defined in their [docs](https://www.bitstamp.net/api/). I've written a post to demonstrate how to do this in PHP [here]({{ site.url }}/generate-bitstamp-signature-in-php.md).
+The signature is generated using an algorithm they've defined in their [docs](https://www.bitstamp.net/api/). I've written a post to demonstrate how to do this in PHP [here]({{ site.url }}/generate-bitstamp-signature-in-php).
 
 I have a function that will handle calling different endpoints on the API, so I just have to send pass the following:
 
