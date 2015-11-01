@@ -6,7 +6,7 @@ author: Fred Muya
 
 This post will describe how to create the signature required by the BitStamp API for private calls to the API.
 
-In the BitStamp [docs](https://www.bitstamp.net/api/), they've shown how to do this in Python:
+In the BitStamp [docs](https://www.bitstamp.net/api/){:target="_blank"}, they've shown how to do this in Python:
 
 {% highlight python %}
 import hmac, hashlib
