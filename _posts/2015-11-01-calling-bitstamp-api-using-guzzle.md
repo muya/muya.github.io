@@ -51,6 +51,7 @@ function callBitStampApi($endpoint, $requestType = 'GET', $queryParams = [], $re
 
     return json_decode($resp);
 }
+?>
 {% endhighlight %}
 
 For calls that require authentication, the `key`, `nonce` & `signature` should be passed as form_params.
