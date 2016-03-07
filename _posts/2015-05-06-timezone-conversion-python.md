@@ -4,7 +4,7 @@ title: Converting between Timezones in Python
 author: Fred Muya
 ---
 
-We all know what a joy it is working with different timezones in our applications, especially when we need to convert between different times between them.
+We all know what a joy it is working with different timezones in our applications, especially when we need to convert different times between them.
 
 To make it even more pleasurable, I created this function some time back to help me with these.
 
@@ -37,7 +37,7 @@ Example use:
 >>> time_in_tokyo.strftime("%Y-%m-%d %H:%M:%S")
 {% endhighlight %}
 
-Make sure you use a timezone string from here: [https://en.wikipedia.org/wiki/List_of_tz_database_time_zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones){target: _blank}
+Make sure you use a timezone string from here: [https://en.wikipedia.org/wiki/List_of_tz_database_time_zones](https://en.wikipedia.org/wiki/List_of_tz_database_time_zones){:target="_blank"}
 
 Easy to grab gist here: [https://gist.github.com/muya/0054ebb9487f55615daa](https://gist.github.com/muya/0054ebb9487f55615daa)
 
