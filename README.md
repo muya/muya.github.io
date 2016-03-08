@@ -1,1 +1,1 @@
-Fred Muya's blog
+Fred Muya's github blog
