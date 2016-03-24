@@ -6,7 +6,7 @@ author: Fred Muya
 
 If you have 2FA enabled on Github (which you should have), you have to use the SSH method to do git operations related to your repo. This becomes a pain when you're doing a lot of remote work (that you haven't yet automated); because you either have to generate a unique password that you can use during the deploy, or switch off 2FA.
 
-Luckily, GitHub has provided an excellent guide on how to enable SSH Agent Forwarding: https://developer.github.com/guides/using-ssh-agent-forwarding/
+Luckily, GitHub has provided an excellent guide on how to enable SSH Agent Forwarding: [https://developer.github.com/guides/using-ssh-agent-forwarding/](https://developer.github.com/guides/using-ssh-agent-forwarding/)
 
 However, at times you need to work as root or a different user from the one you logged in remotely as.
 
