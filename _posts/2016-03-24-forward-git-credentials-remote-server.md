@@ -27,7 +27,7 @@ ssh -T git@github.com
 {% endhighlight %}
 
 You'll get a response like the one below:
-{% highlight %}
+{% highlight bash %}
 Hi {github username}! You've successfully authenticated, but GitHub does not provide shell access.
 {% endhighlight %}
 
