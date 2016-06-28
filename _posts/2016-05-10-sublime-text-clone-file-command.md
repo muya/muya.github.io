@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create Shortcut to Clone a File
+title: Create Shortcut to Clone a File in Sublime Text 3
 author: Fred Muya
 ---
 
