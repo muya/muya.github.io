@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Fred Muya
 
-By day, I'm a Software & DevOps Engineer at [Inventure](http://inventure.com).
+By day, I'm a Software & DevOps Engineer at [Tala](http://tala.co/).
 
 Any other time, I am:
 
@@ -14,7 +14,7 @@ Any other time, I am:
 
 - UX Design Enthusiast
 
-- tinkering with iOS using Swift, working on first app
+- tinkering with iOS using Swift, working on my first app
 
 ### Let's talk
 
