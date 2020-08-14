@@ -6,18 +6,24 @@ permalink: /about/
 
 ### Fred Muya
 
-By day, I'm a Software & DevOps Engineer at [Tala](http://tala.co/).
+By day, I'm a Software Engineer at [Tala](http://tala.co/).
 
 Any other time, I am:
 
-- a web applications developer, mainly using PHP & MySQL running on Apache - highly proficient with Laravel (Python is wooing me)
+- a web applications developer, mainly using GoLang, Scala & PHP
 
 - UX Design Enthusiast
 
-- tinkering with iOS using Swift
+- tinkering with frontend using React
+
+- music enthusiast, doing the digital-age version of crate-digging
+
+- traveller - I've been to Nairobi (hometown), Mombasa 🇰🇪, Accra 🇬🇭, Los Angeles, New York City 🇺🇸, Mexico City 🇲🇽, Brussels 🇧🇪, Paris 🇫🇷, Amsterdam 🇳🇱, Tokyo, Osaka, Okinawa, Kyoto, Sapporo 🇯🇵
+
+- spanish learner - ¡Hola! Habla con mi a practicar
 
 ### Let's talk
 
-Website: [muya.co.ke](https://muya.co.ke/#contact)
+Website: [muya.co.ke](https://bit.ly/3iEvvfM)
 
 Twitter: [@fred_muya](https://twitter.com/fred_muya)
