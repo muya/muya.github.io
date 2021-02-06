@@ -1,0 +1,33 @@
+---
+# Accompanying code snippet for 2021-02-06-using-jinja-filters-in-ansible.md
+# Shows how to use Jinja Filters in Ansible
+#
+# Requires ansible >= 2.9 on host system
+# Run `ansible-playbook ansible-playbook-demo-jinja-filters-in-ansible.yml` to execute it
+
+- name: Demonstrate Use of Jinja Filters in Ansible
+  hosts: localhost
+
+  tasks:
+  - name: Set variables for use in playbook
+    set_fact:
+      word_with_whitespace: "    helloworld   "
+      word_with_other_chars: "*.helloworld.com"
+      str_value_to_convert_to_int: "5278"
+      hex_value_to_convert_to_int: "0x149E"
+
+  - name: Show default functionality of trim filter
+    ansible.builtin.debug:
+      msg: "Before: [{{ word_with_whitespace }}] | After: [{{ word_with_whitespace | trim }}]"
+
+  - name: Show trim filter with additional arguments
+    ansible.builtin.debug:
+      msg: "Before: [{{ word_with_other_chars }}] | After: [{{ word_with_other_chars | trim('*.') }}]"
+
+  - name: Show int filter without arguments
+    ansible.builtin.debug:
+      msg: "Original Value: [{{ str_value_to_convert_to_int }}] | Converted to int: [{{ str_value_to_convert_to_int | int }}]"
+
+  - name: Show int filter with arguments (convert string from hexadecimal (base 16) to decimal (base 10))
+    ansible.builtin.debug:
+      msg: "Original Value: [{{ hex_value_to_convert_to_int }}] | Converted to int: [{{ hex_value_to_convert_to_int | int(0, 16) }}]"
