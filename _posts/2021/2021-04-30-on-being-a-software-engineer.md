@@ -94,6 +94,9 @@ This can seem daunting at first, but there are a lot of websites that are postin
 - Related to the "Newsletters" section above, most newsletters contain a section talking about job opportunities related to the newsletter.
 
 
+Shout out to my close friend [@pnduati](https://github.com/pnduati) for pushing me to convert my notes into a blog post!
+
+
 That's it!
 
 I think that this is a good start to anyone out there starting their journey.
