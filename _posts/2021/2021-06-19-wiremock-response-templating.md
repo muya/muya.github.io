@@ -32,7 +32,9 @@ Wiremock can be set up in 2 ways:
 1. As a dependency in your JVM projects (e.g. via Maven)
 2. As a standalone process, which doesn't require you to be running a JVM-based project
 
-In this post, I'll be taking you through how to set up Wiremock as a standalone process for use in any of your projects.
+In this series of posts, I'll be taking you through how to set up Wiremock as a standalone process for use in any of your projects.
+- [Part 1 (this one): Introduction to Wiremock (with static response)]({{ site.url }}/wiremock-response-templating/)
+- [Part 2: Using Response Templating with Request Parameters]({{ site.url }}/wiremock-response-templating-part-2/)
 
 We'll be using Docker to put all the dependencies together.
 
@@ -80,7 +82,7 @@ Some things to note about the metadata:
 
 To keep it simple, we'll exclude authentication.
 
-If we're working on an app that **consumes** this API, we'd like to have it such that we don't have to interact with the actual system on which it's hosted. This could be an advantage in cases where the API is still in development, or in cases requests to the API are billed.
+If we're working on an app that **consumes** this API, we'd like to have it such that we don't have to interact with the actual system on which it's hosted. This could be an advantage in cases where the API is still in development, or in cases requests to the API are billed 🤑🤑.
 
 The goal is to mock the API defined above, so that we can access it directly, e.g. from your localhost. For example, if the actual API is available at:
 
@@ -315,7 +317,7 @@ With this in place, you can start building your application without having to ca
 
 
 ## Summary
-In this article, we went through an introduction to Wiremock, and showed how to use Docker to set it up.
+In this part of the series, we went through an introduction to Wiremock, and showed how to use Docker to set it up.
 
 We also mocked an API endpoint.
 
@@ -329,10 +331,7 @@ Additionally, thanks to [jtonic's response in this StackOverflow question](https
 Finally, all the code used in this blog post is available in this repository: [wiremock-docker-demo](https://github.com/muya/wiremock-docker-demo)
 
 
-## Coming up in Part 2
-In the next part, we'll go through "Response Templating", which is a Wiremock feature that allows you to return dynamic responses from your mocked API.
-
-For example, we can have the API return different songs / artists, randomized listen count, and variable timestamps for `likedOn`.
-
+## Part 2: Dynamic Responses
+Read [Part 2]({{ site.url }}/wiremock-response-templating-part-2/) of this series to learn how to return dynamic responses from your mock!
 
 Until next time, happy coding! Take Care!
