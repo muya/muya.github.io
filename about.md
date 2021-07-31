@@ -6,7 +6,7 @@ permalink: /about/
 
 ### Fred Muya
 
-By day, I'm a Software Engineer at [Tala](http://tala.co/).
+By day, I'm a Software Engineer at [Yoco](https://www.yoco.com/za/about/).
 
 Any other time, I am:
 
