@@ -11,6 +11,7 @@ Fred Muya's github blog
 ```shell
 bundle exec jekyll serve
 ```
+4. Access the project on http://127.0.0.1:4000
 
 ### Using Docker
 1. Ensure you have Docker installed (https://www.docker.com/get-started)
