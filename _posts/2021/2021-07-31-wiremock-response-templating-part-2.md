@@ -304,10 +304,9 @@ Shout out to [rodolpheche](https://github.com/rodolpheche/wiremock-docker) for b
 All the code used in this blog post is available in this repository: [wiremock-docker-demo](https://github.com/muya/wiremock-docker-demo)
 
 
-## Coming in Part 3: Dynamic Responses using Handlebars Helpers
-In the next part, we'll see how to use [Handlebars Helpers](https://handlebarsjs.com/) to allow us to generate dynamic data for our responses.
 
-For example, we can have the API return different songs / artists, randomized listen count, and variable timestamps for `likedOn`.
+## Part 3: Dynamic Responses using Handlebars Helpers
+Read [Part 3]({{ site.url }}/wiremock-response-templating-part-3/) of this series to learn how to use [Handlebars Helpers](https://handlebarsjs.com/) to allow us to generate dynamic data for our responses.
 
 
 Until then, happy coding, and stay safe!
