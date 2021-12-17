@@ -18,7 +18,7 @@ Any other time, I am:
 
 - music enthusiast, doing the digital-age version of crate-digging
 
-- traveller - I've been to Nairobi (hometown), Mombasa 🇰🇪, Accra 🇬🇭, Los Angeles, New York City 🇺🇸, Mexico City 🇲🇽, Brussels 🇧🇪, Paris 🇫🇷, Amsterdam 🇳🇱, Tokyo, Osaka, Okinawa, Kyoto, Sapporo 🇯🇵
+- traveller - I've been to Nairobi (hometown), Malindi, Mombasa 🇰🇪, Accra 🇬🇭, Los Angeles, New York City 🇺🇸, Mexico City 🇲🇽, Brussels 🇧🇪, Paris 🇫🇷, Amsterdam 🇳🇱, Tokyo, Osaka, Okinawa, Kyoto, Sapporo 🇯🇵, Cape Town 🇿🇦
 
 - spanish learner - ¡Hola! Habla con mi a practicar
 
@@ -27,3 +27,5 @@ Any other time, I am:
 Website: [muya.co.ke](https://bit.ly/3iEvvfM)
 
 Twitter: [@fred_muya](https://twitter.com/fred_muya)
+
+Newsletter: [muya.substack.com](https://muya.substack.com)
