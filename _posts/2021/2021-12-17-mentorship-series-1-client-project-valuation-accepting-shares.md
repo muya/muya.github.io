@@ -90,7 +90,9 @@ This aspect of billing for the proposal also allows you to weed out the jokers v
 #### Recommended Reading
 [@tom_hirst](https://twitter.com/tom_hirst) wrote an excellent thread on this topic on Twitter, I highly recommend checking that out.
 
-{% twitter https://twitter.com/tom_hirst/status/1277933730078785537 theme=dark align=center dnt=true %}
+<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet" align="center" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Pricing freelancing projects. <br /><br />Everything I&#39;ve learned.<br /><br />A thread.</p>&mdash; Tom Hirst (@tom_hirst) <a href="https://twitter.com/tom_hirst/status/1277933730078785537?ref_src=twsrc%5Etfw">June 30, 2020</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 
 He's also written an excellent book on Pricing Freelance Projects, I recommend you check it out:
 
