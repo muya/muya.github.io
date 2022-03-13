@@ -18,7 +18,17 @@ Any other time, I am:
 
 - music enthusiast, doing the digital-age version of crate-digging
 
-- traveller - I've been to Nairobi (hometown), Malindi, Mombasa 🇰🇪, Accra 🇬🇭, Los Angeles, New York City 🇺🇸, Mexico City 🇲🇽, Brussels 🇧🇪, Paris 🇫🇷, Amsterdam 🇳🇱, Tokyo, Osaka, Okinawa, Kyoto, Sapporo 🇯🇵, Cape Town 🇿🇦
+- traveller - here are all the places I've been to:
+  - 🇰🇪 Nairobi (hometown), Malindi, Mombasa 
+  - 🇬🇭 Accra
+  - 🇺🇸 Los Angeles, New York City
+  - 🇲🇽 Mexico City 
+  - 🇧🇪 Brussels 
+  - 🇫🇷 Paris
+  - 🇳🇱 Amsterdam 
+  - 🇯🇵 Tokyo, Osaka, Okinawa, Kyoto, Sapporo
+  - 🇿🇦 Cape Town
+  - 🇪🇬 Cairo, New Cairo
 
 - spanish learner - ¡Hola! Habla con mi a practicar
 

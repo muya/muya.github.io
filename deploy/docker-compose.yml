@@ -7,4 +7,4 @@ services:
       - $PWD/vendor/bundle:/usr/local/bundle # allow cache to be re-usable
     ports:
       - 4000:4000
-    command: jekyll serve
+    command: jekyll serve --incremental
