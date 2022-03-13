@@ -3,7 +3,7 @@ layout: post
 title: Muya's DevTools (with Animations)
 date: '2022-03-13'
 author: Fred Muya
-excerpt: Collections of useful tools I use on my computer day-to-day
+excerpt: Collections of useful tools I use on my computer daily
 tags:
 - productivity
 - devtools
