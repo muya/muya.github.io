@@ -10,3 +10,4 @@ package.json
 vendor
 /.tweet-cache
 .idea
+/.jekyll-metadata
