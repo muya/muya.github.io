@@ -124,7 +124,7 @@ The part we're most interested in is the "Date format", which determines how you
 In this case, we needed to preserve the naming format:
 - `CL` - prefix to denote that this is a "ChangeLog file"
 - `_` - an underscore to separate the name sections
-- `DDMMYYYY` - the current date, in the format: `DDMMYYY`; e.g. for 10th April 2022, we'd want: `10042022`
+- `DDMMYYYY` - the current date; e.g. for 10th April 2022, we'd want: `10042022`
 
 Obsidian's date formatting is based off [Moment.js](https://momentjs.com/), the legendary JavaScript Date library.
 
