@@ -22,7 +22,8 @@ Any other time, I am:
   - 🇰🇪 Nairobi (hometown), Malindi, Mombasa 
   - 🇬🇭 Accra
   - 🇺🇸 Los Angeles, New York City
-  - 🇲🇽 Mexico City 
+  - 🇮🇳 Bangalore, Goa
+  - 🇲🇽 Mexico City, Acapulco
   - 🇧🇪 Brussels 
   - 🇫🇷 Paris
   - 🇳🇱 Amsterdam 
