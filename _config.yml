@@ -10,6 +10,13 @@ author: Fred Muya
 # Short bio or description (displayed in the header)
 description: "[mostly code] musings of a software developer from nairobi 🇰🇪 | learning"
 
+# Disable caching of content to disk in order to skip creating a .jekyll-cache or similar directory at the source to
+# avoid interference with virtual environments and third-party directory watchers.
+disable_disk_cache: true
+
+# Publish posts or collection documents with a future date.
+future: true
+
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 # avatar: https://avatars3.githubusercontent.com/u/1861055?v=2&s=460
 
