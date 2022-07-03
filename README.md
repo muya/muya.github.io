@@ -21,3 +21,6 @@ bundle exec jekyll serve
 docker-compose -f deploy/docker-compose.yml up
 ```
 4. Access the project on http://127.0.0.1:4000
+
+#### Updating Gemfile
+Please refer to the [Updating Guide](https://github.com/envygeeks/jekyll-docker#updating) there's a need to update the `Gemfile.lock` with a new version of Jekyll.
