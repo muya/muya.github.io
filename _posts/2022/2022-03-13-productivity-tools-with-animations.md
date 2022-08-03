@@ -189,7 +189,7 @@ The most satisfying aspect of it though, has to be the animation + random GIF th
 It has options to display the current week, and provides integration to your Calendar, allowing you to view events that are coming up.
 
 ### Clocker
-[Clocker]() is another menu bar app that provides a quick way to check the time in different cities across the world. This is especially useful if you're working across multiple timezones.
+[Clocker](https://apps.apple.com/us/app/clocker/id1056643111?mt=12) is another menu bar app that provides a quick way to check the time in different cities across the world. This is especially useful if you're working across multiple timezones.
 
 Again, the simplicity of this app is a reason why I enjoy it so much.
 
